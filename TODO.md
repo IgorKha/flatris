@@ -1,3 +1,4 @@
+asd
 - [x] Extract Preloader component (get from public/index.html)
 - [x] Remove dynamic layout
 - [x] Create script for generating media queries for game page
